@@ -1,4 +1,4 @@
-##👋 Hello, I’m Ma. Ana De La Cruz!
+**👋 Hello, I’m Ma. Ana De La Cruz!**
 
 I’m a 4th-year Bachelor of Science in Computer Science student at Naga College Foundation, Inc., with a passion for building smart, impactful solutions through software development, IoT, and artificial intelligence.
 
