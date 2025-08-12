@@ -1,7 +1,3 @@
-# 💫 About Me:
-Generate a professional, engaging, and visually appealing GitHub profile README in markdown format. The README should include the following sections:<br><br>Introduction – A friendly greeting, my name (Ma. Ana De La Cruz), my role as a 4th-year BS Computer Science student at Naga College Foundation, Inc., and a short summary about my passion for software development, IoT, and AI.<br><br>Skills & Technologies – Display with visually appealing badges/icons for languages, frameworks, and tools (React.js, Flask, Python, MySQL, MongoDB, IoT, AI/ML, Computer Vision).<br><br>Current Work/Focus – Mention ongoing projects (e.g., Arkila rental management system, TrashTalk IoT waste management system).<br><br>Featured Projects – Highlight 3–4 repositories with brief descriptions and links.<br><br>Stats & Activity – Include GitHub stats card, top languages card, and contribution graph.<br><br>Contact & Links – Add icons and links for email, LinkedIn, and portfolio (if available).<br><br>Make it well-structured, easy to read, and visually attractive using GitHub markdown features, emoji, and consistent styling.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ma-ana-d-92b116120/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maanadelacruz29@gmail.com) 
 
