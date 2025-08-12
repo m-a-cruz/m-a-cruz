@@ -1,4 +1,5 @@
-👋 Hello, I’m Ma. Ana De La Cruz!
+##👋 Hello, I’m Ma. Ana De La Cruz!
+
 I’m a 4th-year Bachelor of Science in Computer Science student at Naga College Foundation, Inc., with a passion for building smart, impactful solutions through software development, IoT, and artificial intelligence.
 
 I enjoy creating projects that bridge hardware and software, from IoT-powered systems to full-stack web applications. My recent work includes Arkila, a rental management platform for student housing, and TrashTalk, an IoT-enabled waste management system with AI-based computer vision and forecasting.
